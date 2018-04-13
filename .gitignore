@@ -23,7 +23,7 @@ hs_err_pid*
 
 #ignore idea files
 
-
+.idea
 *.iml
 /bin/
 out/
